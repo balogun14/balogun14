@@ -6,7 +6,7 @@
 open for collaoration
 ---------------------
 
- Application developer 
+ Fullstack developer 
 
 ---------------------
 
