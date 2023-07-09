@@ -1,27 +1,32 @@
-# 👋☺️Hi
+# 👋Hi
 
 ---------------------
 
-# My name is Awwal Balogun  
-open for collaoration
+# My name is Muhammed-Awwal Balogun  
 ---------------------
 
  Fullstack developer 
 
 ---------------------
 
-I’m an aspiring programmer. 
-Hoping for an internship to brush my skills.
-my skills are: python,html,css,JavaScript,java,dart,flutter,sql,Postgres. 
-Still winding my horizon the sky is the limit  
+my skills are: \
+PYTHON\
+HTML\
+CSS\
+JavaScript\
+JAVA\
+DART\
+FLUTTER\
+SQL\
+PostgresSQL. 
+Still widning my horizon the sky is the limit  
 
 ------------------------------------------
 
 * 🌍  I'm based in Lagos 
 * ✉️  You can contact me at 
 [awwalbalogun06@gmail.com](mailto:awwalbalogun06@gmail.com)
- * 🧠  I'm learning Flutter 
-* 🤝  I'm open to collaborating on Python , Fluter
+ * 🧠  I'm learning Angular 
  * 💡fast learner
 ## Skills
 
