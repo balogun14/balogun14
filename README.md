@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Awwal and I'm a Full-Stack Developer, from Lagos,Nigeria</h2>
+<h2 align="left">Hi 👋! My name is Muhammed-Awwal and I'm a Full-Stack Developer, from Lagos,Nigeria</h2>
 
 ###
 
