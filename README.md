@@ -25,6 +25,9 @@
   <img width="12" />
 <img height="30" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
   <img width="12" />
+<img width='12'/>
+   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"  height="30"/>
+  <img width='12'/>
 
 <img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
   <img width="12" />
