@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balogun14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balogun14&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=balogun14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balogun14&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=10&theme=merko&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -112,10 +112,5 @@
 </div>
 
 ###
-<p>open for collaborations <a href="awwalbalogun06@gmail.com">Mail</a></p>
+<p>Open for collaborations <a href="awwalbalogun06@gmail.com">Mail</a></p>
 
-###
-
-<img src="https://raw.githubusercontent.com/balogun14/balogun14/output/snake.svg" alt="Snake animation" />
-
-###
