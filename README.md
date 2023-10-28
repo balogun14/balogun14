@@ -114,7 +114,7 @@
 <p>Open for collaborations Mail: awwalbalogun06@gmail.com </p>
 
  🚧 Work in progress
- +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 <div align="center">
 <a href="https://ibb.co/m4R28Bd"><img src="https://i.ibb.co/pd1MyPN/Home-Explore.png" alt="Home-Explore" border="0" width=520></a>
 <a href="https://ibb.co/fxTgSpC"><img src="https://i.ibb.co/CHSct7n/Home-Stocks.png" alt="Home-Stocks" border="0" width=520></a>
