@@ -111,7 +111,9 @@
 </div>
 
 ###
-<p>Open for collaborations Mail: awwalbalogun06@gmail.com </p>
+<p>Open for collaborations</p>
+<p><a href="mailto:awwalbalogun06@gmail.com">Send email</a></p>
+
 
  🚧 Work in progress
  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
