@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balogun14" alt="balogun14" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Powered Symptom Checker**
-
-- 🌱 I’m currently learning **IFC.js, three.js**
+- 🔭 I’m currently working on **AI-Powered Symptom Checker**  (finished this)
 
 - 👨‍💻 All of my projects are available at [github.com/balogun14](github.com/balogun14)
-
-- 💬 Ask me about **nothing :)**
 
 - 📫 How to reach me **awwalbalogun06@gmail.com**
 
