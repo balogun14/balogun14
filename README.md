@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **awwalbalogun06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z0J97E5r2w63ezi2Gv2hshdMHvvw9fWG/view?usp=sharing](https://drive.google.com/file/d/1z0J97E5r2w63ezi2Gv2hshdMHvvw9fWG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dgINhLi0UGHl8MfBSHKbH-qz4ROhCmNm/view?usp=sharing](https://drive.google.com/file/d/1dgINhLi0UGHl8MfBSHKbH-qz4ROhCmNm/view?usp=sharing)
 
 - ⚡ Fun fact **We are all learning**
 
