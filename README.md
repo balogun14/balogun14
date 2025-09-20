@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balogun14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balogun14&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=20&theme=merko&hide_border=true" height="250" alt="languages graph" width="500"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balogun14&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=10&theme=merko&hide_border=true" height="250" alt="languages graph" width="500"  />
 </div>
 
 ###
