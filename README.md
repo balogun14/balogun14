@@ -3,17 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balogun14" alt="balogun14" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Powered Symptom Checker**  (finished this)
-
 - 👨‍💻 All of my projects are available at [github.com/balogun14](github.com/balogun14)
-
 - 📫 How to reach me **awwalbalogun06@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dgINhLi0UGHl8MfBSHKbH-qz4ROhCmNm/view?usp=sharing](https://drive.google.com/file/d/1dgINhLi0UGHl8MfBSHKbH-qz4ROhCmNm/view?usp=sharing)
-
 - ⚡ Fun fact **We are all learning**
-
-- ![Awwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=balogun14&theme=github)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balogun14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balogun14&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=10&theme=merko&hide_border=true" height="250" alt="languages graph" width="500"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balogun14&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=merko&hide_border=true" height="250" alt="languages graph" width="500"  />
 </div>
 
 ###
