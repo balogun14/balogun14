@@ -43,10 +43,9 @@ const engineer = {
 
 ### Recent Achievements
 
-- **Led Project 10 Million** at Mobihealth International: Nationwide telehealth initiative serving 100K+ concurrent users
 - **Built AI-Powered Matching System**: Reduced patient-doctor allocation time by 65% using clustering algorithms
 - **Migrated Legacy Monolith to Microservices**: Achieved 3× performance improvement for critical healthcare infrastructure
-- **Founded Solvestation Technologies**: Leading technical strategy and mentoring next-generation engineers
+- **Founding Engineer at Solvestation Technologies**: Leading technical strategy and mentoring next-generation engineers
 
 ---
 
