@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Senior Full-Stack Engineer** | **AI-Driven Systems Architect** | **Cloud Infrastructure Specialist**
+**Senior Full-Stack Engineer** | **Systems Architect** | **Cloud Infrastructure Specialist**
 
 *Building scalable, intelligent systems that solve real-world problems*
 
