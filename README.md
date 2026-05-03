@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**Senior Full-Stack Engineer** | **Systems Architect** | **Cloud Infrastructure Specialist**
+**My Fingers Dance a little**
 
 *Building scalable, intelligent systems that solve real-world problems*
 
