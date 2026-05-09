@@ -34,7 +34,7 @@ const engineer = {
     "Team Leadership"
   ],
   impact: {
-    projectsLed: "15+",
+    projectsLed: "20+",
     teamsManaged: "Multiple cross-functional teams",
     systemsArchitected: "Healthcare platforms, Fintech apps, Enterprise SaaS"
   }
