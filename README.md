@@ -46,6 +46,8 @@ const engineer = {
 - **Built AI-Powered Matching System**: Reduced patient-doctor allocation time by 65% using clustering algorithms
 - **Migrated Legacy Monolith to Microservices**: Achieved 3× performance improvement for critical healthcare infrastructure
 - **Founding Engineer at Solvestation Technologies**: Leading technical strategy and mentoring next-generation engineers
+- - **Senior Engineer at Runit Global Innovations**: Leading technical strategy and mentoring next-generation engineers
+
 
 ---
 
@@ -55,7 +57,7 @@ const engineer = {
 **Production-Grade Expertise:**
 ```
 Backend:    Python • TypeScript • C# • Java • Go
-Frameworks: Django • FastAPI • ASP.NET Core • Node.js • Spring Boot
+Frameworks: Django • FastAPI • ASP.NET Core • Node.js • Spring Boot • GIN • CHI
 Frontend:   Next.js • React • Angular • Flutter
 ```
 
@@ -63,7 +65,7 @@ Frontend:   Next.js • React • Angular • Flutter
 ```
 Patterns:     Microservices • DDD • Event-Driven • Vertical Slice Architecture
 Databases:    PostgreSQL • MongoDB • Redis • DynamoDB • SQL Server
-Cloud:        AWS (EC2, Lambda, S3, RDS, DynamoDB)
+Cloud:        AWS (EC2, Lambda, S3, RDS, DynamoDB), GCloud , Azure
 DevOps:       Docker • Kubernetes • CI/CD • Terraform • Traefik
 Monitoring:   Prometheus • Grafana • Loki
 ```
@@ -116,7 +118,7 @@ End-to-end pharmacy delivery and prescription management system.
 ![balogun14's Stats](https://github-readme-stats.vercel.app/api?username=balogun14&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 
-![balogun14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balogun14&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![balogun14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balogun14&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&langs_count=10)
 ---
 
 ## Leadership & Mentorship
